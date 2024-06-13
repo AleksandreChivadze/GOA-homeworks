@@ -1,0 +1,4 @@
+name="aleksandre"
+surname="chivadze"
+height=183.5
+print("name + surname")
